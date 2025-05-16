@@ -39,5 +39,6 @@ public class MainApp {
         System.out.printf("Rate  : %.2f \n", rate);
         System.out.printf("TOTAL : %.2f\n", total);
         System.out.println("-------------------------");
+        System.out.println("  Thank You  ");
     }
 }
